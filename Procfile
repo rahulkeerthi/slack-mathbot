@@ -1,1 +1,1 @@
-web: bundle exec ruby slack-mathbot.rb
+web: bundle exec puma -p $PORT
